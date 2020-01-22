@@ -1,0 +1,23 @@
+.block_left {
+  background-color: #FF9900;
+  width: 27vw;
+  height: 27vw;
+  float: left;
+  margin-left:3vw;
+  margin-right:3vw;
+  margin-top:3vw;
+  border-radius:10px;
+}
+.block {
+  background-color: #FF9900;
+  width: 27vw;
+  height: 27vw;
+  float: left;
+  margin-right:3vw;
+  margin-top:3vw;
+  border-radius:10px;
+}
+.clear {
+  clear: both;
+  }
+
